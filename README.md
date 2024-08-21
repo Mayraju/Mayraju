@@ -8,7 +8,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/mayraju-p-09aa50109" target="_blank" rel="noopener noreferrer"> <img src="https://www.iconfinder.com/icons/291709/logo_linked_in_social_network_social_social_media_web_media_internet_communication_linkedin_icon" alt="Python" height="40" style="vertical-align:top; margin:4px;"></a>
+ <a href="https://www.linkedin.com/in/mayraju-p-09aa50109" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/free-icon/linkedin_16183618?term=linkedin&page=1&position=18&origin=tag&related_id=16183618" alt="Python" height="40" style="vertical-align:top; margin:4px;"></a>
  <a href="mailto:mayraju777@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
