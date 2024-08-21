@@ -8,3 +8,14 @@
 -     Email: mayraju777@gmail.com
 - 😄 Pronouns: he/him
 
+- ![](https://visitor-badge.laobi.icu/badge?page_id=Mayraju)
+
+- [![Github](https://img.shields.io/github/followers/Mayraju?label=Follow&style=social)](https://github.com/Mayraju)
+
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayraju&show_icons=true&theme=tokyonight)
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraju&theme=tokyonight)
+
+
+
+
