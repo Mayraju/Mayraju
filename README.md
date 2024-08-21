@@ -6,11 +6,9 @@
 
 - ## ✉️ Find me on:
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mayraju-p-09aa50109/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=black)](mailto:mayraju777@gmail.com)
 
-<p align="center">
- <a href="https://www.linkedin.com/in/mayraju-p-09aa50109" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px; fill:white;"></a>
- <a href="mailto:mayraju777@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 <br />
 
