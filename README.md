@@ -60,7 +60,7 @@
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-profile-blue)](https://leetcode.com/mayraju/)
 
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-profile-green)](https://www.geeksforgeeks.org/user/mayraju.p/)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-profile-green)](https://www.geeksforgeeks.org/user/mayraju%20.p/)
 
 
 
