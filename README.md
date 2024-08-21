@@ -53,13 +53,6 @@
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraju&theme=tokyonight)
 
-  <br/>
-
-  ### My Problem-Solving Stats
-
-- **LeetCode:** ![LeetCode Solved](https://img.shields.io/badge/dynamic/json?color=green&label=solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F<mayraju>)
-
-
 
 
 
