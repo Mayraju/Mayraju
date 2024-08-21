@@ -53,6 +53,17 @@
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraju&theme=tokyonight)
 
+  <br/>
+
+  ## Coding Profiles:
+
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-profile-blue)](https://leetcode.com/mayraju/)
+
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-profile-green)](https://www.geeksforgeeks.org/user/mayraju.p/)
+
+
+
 
 
 
