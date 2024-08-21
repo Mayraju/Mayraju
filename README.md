@@ -8,7 +8,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/mayraju-p-09aa50109" target="_blank" rel="noopener noreferrer"> <img src="https://pixabay.com/illustrations/linkedin-linkedin-icon-linkedin-logo-2095609/" alt="Python" height="40" style="vertical-align:top; margin:4px;"></a>
+ <a href="https://www.linkedin.com/in/mayraju-p-09aa50109" target="_blank" rel="noopener noreferrer"> <img src="https://drive.google.com/file/d/1NaPHo7WXXOGJN6EIVh-WUs2WSJx89l7Y/view?usp=sharing" alt="Python" height="40" style="vertical-align:top; margin:4px;"></a>
  <a href="mailto:mayraju777@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
