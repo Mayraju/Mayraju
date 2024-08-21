@@ -13,11 +13,13 @@
 <br />
 
 ## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+
+[![Java](https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=007396)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)](https://golang.org/)
+
 - 😄 Pronouns: he/him
 
 - ![](https://visitor-badge.laobi.icu/badge?page_id=Mayraju)
