@@ -4,6 +4,8 @@
 - 🔭 I’m currently working as a Backend Developer with Experience Of 3 Years Development Experience.
 - 🌱 I’m currently learning DSA and System Design and Problem solving.
 
+-    Pronounce: he/him
+
 - ## ✉️ Find me on:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mayraju-p-09aa50109/)
