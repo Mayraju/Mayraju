@@ -14,7 +14,7 @@ jobs:
 
     - name: Fetch LeetCode Stats
       run: |
-        curl -s https://leetcode-stats-api.herokuapp.com/<username> > leetcode.json
+        curl -s https://leetcode-stats-api.herokuapp.com/mayraju > leetcode.json
         echo "LeetCode solved problems: $(jq '.totalSolved' leetcode.json)" >> README.md
 
     - name: Commit and Push
