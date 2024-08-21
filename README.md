@@ -42,9 +42,14 @@
 
 - [![Github](https://img.shields.io/github/followers/Mayraju?label=Follow&style=social)](https://github.com/Mayraju)
 
-- 
+<br/>
 
+ ## Statistics  and Commits:
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayraju&show_icons=true&theme=tokyonight)
+
+  <br/>
+
+  ## % of Languages used:
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraju&theme=tokyonight)
 
