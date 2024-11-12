@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Backend Developer with Experience Of 3 Years Development Experience.
-- 🌱 I’m currently learning DSA and System Design and Problem solving.
+- 🌱 DSA and System Design and Problem-solving.
 
 -    Pronounce: he/him
 
