@@ -92,7 +92,9 @@ I focus on writing clean backend code, designing reliable systems, and solving r
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayraju&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayraju&show_icons=true&theme=default)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayraju&layout=compact)
 
 ---
